@@ -2,6 +2,7 @@
 Simple casual game for Android
 
 This game about dynamic graphs
+
 Between graphs has lines connecting them
 You can cut lines, but on the line create new graph
 Main game task is cut so many lines as you can
